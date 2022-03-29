@@ -1,0 +1,18 @@
+.navegacion
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    border: 1px solid red;
+    padding: 0.5em 2em 0.5em;
+}
+
+.navegacion__items
+{
+    list-style: none;
+    display: flex;
+    width: 65%;
+    justify-content: space-between;
+    align-items: center;
+}
